@@ -19,6 +19,12 @@ Aplikasi full-stack Laravel untuk mencatat laporan gangguan Internet / WiFi / CC
 
 Bukan template generik: kertas krem bergaris, font serif + mesin ketik, stempel status, selotip oranye, catatan tangan di footer.
 
+| Dashboard | Daftar + filter | Form catat |
+|---|---|---|
+| ![dashboard](docs/dashboard.png) | ![daftar](docs/daftar.png) | ![form](docs/form.png) |
+
+> ℹ️ Aplikasi ini butuh server PHP + database, jadi **tidak bisa live di github.io** (yang hanya untuk situs statis). Untuk demo online, deploy ke VPS / shared hosting PHP (lihat urutan instalasi di bawah) — screenshot di atas diambil dari aplikasi yang jalan.
+
 ## Instalasi
 
 ```bash

@@ -67,6 +67,8 @@
   .angka b { font-size: 34px; display: block; font-family: 'Courier New', monospace; }
   footer { margin-top: 40px; border-top: 3px double #8a7a5c; padding-top: 12px; font-size: 13px; color: #8a7a5c; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
   .error { color: #b3261e; font-size: 13px; }
+  nav[role="navigation"] svg { width: 16px; height: 16px; vertical-align: -3px; }
+  nav[role="navigation"] a, nav[role="navigation"] span { font-family: 'Courier New', monospace; font-size: 14px; margin-right: 6px; }
 </style>
 </head>
 <body>
